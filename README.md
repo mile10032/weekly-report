@@ -6,5 +6,5 @@
 
 ## マイルストーン
 - Milestones 1: Advanced, Git, Backend Project 1, Project 2 team dev, Frontend Project 1 & 4
-  - Milestones 2: OOP, project 3, Database
-  - Milestones 3: Backend Project 4, Project 5, Team Development
+- Milestones 2: OOP, project 3, Database
+- Milestones 3: Backend Project 4, Project 5, Team Development
