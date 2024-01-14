@@ -1,4 +1,4 @@
-# weekly-report# weekly-report
+# weekly-report
 学習記録用のリポジトリーになります
 
 ## 目標
