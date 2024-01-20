@@ -9,7 +9,7 @@
     - Milestones 1: Advanced, Git, Backend Project 1, Project 2 team dev, Frontend Project 1 & 4 を終わらせる。
     
 - 2024/03/15 -2024/05/15
-      - Milestones 2: OOP, project 3, Database　を終わらせる。
+  - Milestones 2: OOP, project 3, Databaseを終わらせる。
     
 - 2024/05/16-2024/07/16
-      - Milestones 3: Backend Project 4, Project 5, Team Development　を終わらせる。
+  - Milestones 3: Backend Project 4, Project 5, Team Developmentを終わらせる。
