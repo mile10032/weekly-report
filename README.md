@@ -11,5 +11,5 @@
 - 2024/07/21 -2024/09/15
   - Milestones 2: OOP, project 3, Databaseを終わらせる。
     
-- 2024/09/16-2024/12/15
+- 2024/09/16-2024/12/31
   - Milestones 3: Backend Project 4, Project 5, Team Developmentを終わらせる。
